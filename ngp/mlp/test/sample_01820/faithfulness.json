@@ -1,0 +1,98 @@
+{
+  "integratedgradients": {
+    "faithfulnesscorrelation": -0.48859102583634667,
+    "faithfulnessestimate": -0.5170351798643693,
+    "monotonicitycorrelation": 0.5000000596046448,
+    "regionperturbation": 0.0064752548933029175,
+    "insertion": 0.4822230339050293,
+    "deletion": 0.48886430263519287,
+    "negative": 0.4807758033275604,
+    "positive": 0.48886430263519287,
+    "irof": 0.008824363350868225,
+    "infidelity": -0.17976497118246632
+  },
+  "gradientshap": {
+    "faithfulnesscorrelation": -0.42242122473061533,
+    "faithfulnessestimate": -0.3097502621383443,
+    "monotonicitycorrelation": 0.5714285969734192,
+    "regionperturbation": 0.021232739090919495,
+    "insertion": 0.48642921447753906,
+    "deletion": 0.4741068482398987,
+    "negative": 0.4845951795578003,
+    "positive": 0.4741068482398987,
+    "irof": 0.034971848130226135,
+    "infidelity": -0.10651086848819565
+  },
+  "deeplift": {
+    "faithfulnesscorrelation": -0.11184575119146109,
+    "faithfulnessestimate": -0.09542099006031754,
+    "monotonicitycorrelation": 0.7142857909202576,
+    "regionperturbation": 0.01484370231628418,
+    "insertion": 0.483650803565979,
+    "deletion": 0.4804958701133728,
+    "negative": 0.4812719225883484,
+    "positive": 0.4804958701133728,
+    "irof": 0.02365170419216156,
+    "infidelity": 0.1318520280416378
+  },
+  "saliency": {
+    "faithfulnesscorrelation": -0.5616047063948572,
+    "faithfulnessestimate": -0.5170351798643693,
+    "monotonicitycorrelation": 0.5000000596046448,
+    "regionperturbation": 0.0064752548933029175,
+    "insertion": 0.4822230339050293,
+    "deletion": 0.48886430263519287,
+    "negative": 0.4807758033275604,
+    "positive": 0.48886430263519287,
+    "irof": 0.008824363350868225,
+    "infidelity": -0.0674157199429242
+  },
+  "occlusion": {
+    "faithfulnesscorrelation": 0.14377574088033396,
+    "faithfulnessestimate": 0.06758470207471702,
+    "monotonicitycorrelation": 0.7142857909202576,
+    "regionperturbation": 0.01731005311012268,
+    "insertion": 0.48737749457359314,
+    "deletion": 0.4780295491218567,
+    "negative": 0.48499858379364014,
+    "positive": 0.4780295491218567,
+    "irof": 0.028021618723869324,
+    "infidelity": 0.2248592111360843
+  },
+  "featureablation": {
+    "faithfulnesscorrelation": 0.08623329693420696,
+    "faithfulnessestimate": 0.09791188159570396,
+    "monotonicitycorrelation": 0.7380952835083008,
+    "regionperturbation": 0.01731005311012268,
+    "insertion": 0.48737749457359314,
+    "deletion": 0.4780295491218567,
+    "negative": 0.48499858379364014,
+    "positive": 0.4780295491218567,
+    "irof": 0.028021618723869324,
+    "infidelity": 0.3201948335997817
+  },
+  "lime": {
+    "faithfulnesscorrelation": -0.055934709518691964,
+    "faithfulnessestimate": -0.14569845364638823,
+    "monotonicitycorrelation": 0.7619048357009888,
+    "regionperturbation": 0.011276066303253174,
+    "insertion": 0.4838685989379883,
+    "deletion": 0.4840635061264038,
+    "negative": 0.48148971796035767,
+    "positive": 0.4840635061264038,
+    "irof": 0.017330512404441833,
+    "infidelity": 0.258300109278077
+  },
+  "kernelshap": {
+    "faithfulnesscorrelation": -0.24512784871022186,
+    "faithfulnessestimate": -0.25164808032578356,
+    "monotonicitycorrelation": 0.523809552192688,
+    "regionperturbation": 0.012943774461746216,
+    "insertion": 0.47998589277267456,
+    "deletion": 0.48240262269973755,
+    "negative": 0.4779142141342163,
+    "positive": 0.48240262269973755,
+    "irof": 0.020273275673389435,
+    "infidelity": 0.24419037268336594
+  }
+}
